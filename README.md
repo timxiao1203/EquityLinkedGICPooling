@@ -16,15 +16,11 @@ All new and renewing GICs will automatically become part of combable pool. Once 
 
 GICs that have a term of less than three months will not be eligible for inclusion in permanent and combable pools, and are thus flagged as being “non-combable pool”.  This means that these instruments are not considered in the creation of temporary pools described above. 
 
-Once a permanent pool is struck, no new certificates will be added to the pool; however, certificates may be removed based on certain business events.
-
 Generally speaking, an event that would give rise to re-transfer pricing would also give rise to removal from the pool and vice versa.  There are a couple of important exceptions to this rule.  For example, in the event that the customer rate changes (common in the first couple of months after origination because of administrative misunderstandings) the transfer rate must change but the instrument should remain a part of the same pool.  
 
-Pools will occasionally have to be unwound for a variety of reasons such as inaccurate consumer behavior assumptions leading to low hedge effectiveness ratios and frequent rebalancing, etc. 
+Guaranteed investment certificate provides investors a guaranteed interest rate for a fixed amount time. Interest is accrued daily on GIC. Accrued interest will be reported annually (see accrued interest in https://finpricing.com/lib/FiBondAccrual.html).
 
 References:
-
-https://finpricing.com/lib/EqVariance.html
 
 https://osf.io/atyb9/download
 
