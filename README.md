@@ -18,9 +18,12 @@ GICs that have a term of less than three months will not be eligible for inclusi
 
 Generally speaking, an event that would give rise to re-transfer pricing would also give rise to removal from the pool and vice versa.  There are a couple of important exceptions to this rule.  For example, in the event that the customer rate changes (common in the first couple of months after origination because of administrative misunderstandings) the transfer rate must change but the instrument should remain a part of the same pool.  
 
-Guaranteed investment certificate provides investors a guaranteed interest rate for a fixed amount time. Interest is accrued daily on GIC. Accrued interest will be reported annually (see accrued interest in https://finpricing.com/lib/FiBondAccrual.html).
+Guaranteed investment certificate provides investors a guaranteed interest rate for a fixed amount time. Interest is accrued daily on GIC. Accrued interest will be reported annually.
 
 References:
 
+https://derivatives.hcommons.org/2020/09/02/product/
+
 https://osf.io/atyb9/download
 
+https://finpricing.com/lib/FiBondAccrual.html
